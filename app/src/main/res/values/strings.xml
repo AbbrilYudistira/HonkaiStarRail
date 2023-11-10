@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Honkai Star Rail</string>
+
+    <string name="heroes_name">Character Name</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+
+    <string name="About">About</string>
+    <string name="grid">Grid</string>
+
+    <string name="name">Abbril Yudistira</string>
+    <string name="email">yudistiraabbril@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Blade</item>
+        <item>Danheng IL</item>
+        <item>Fu Xuan</item>
+        <item>Himeko</item>
+        <item>Jingliu</item>
+        <item>Kafka</item>
+        <item>Luocha</item>
+        <item>Seele</item>
+        <item>SilverWolf</item>
+        <item>Topaz</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Path : The Destruction Type : Wind</item>
+        <item>Path : The Destruction Type : Imaginary</item>
+        <item>Path : The Preservation Type : Quantum</item>
+        <item>Path : The Erudition Type : Fire</item>
+        <item>Path : The Destruction Type : Ice</item>
+        <item>Path : The Nihility Type : Lightning</item>
+        <item>Path : The Abudance Type : Imaginary</item>
+        <item>Path : The Hunt Type : Quantum</item>
+        <item>Path : The Nihility Type : Quantum</item>
+        <item>Path : The Hunt Type : Fire</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/blade</item>
+        <item>@drawable/danheng_il</item>
+        <item>@drawable/fu_xuan</item>
+        <item>@drawable/himeko</item>
+        <item>@drawable/jingliu</item>
+        <item>@drawable/kafka</item>
+        <item>@drawable/luocha</item>
+        <item>@drawable/seele</item>
+        <item>@drawable/silver_wolf</item>
+        <item>@drawable/topaz</item>
+    </integer-array>
+
+    <string-array name="data_keterangan">
+        <item>Blade is a 5★ character from the Wind element who follows the Path of Destruction.A swordsman who abandoned his body to become a blade. Birth name unknown. He pledges loyalty to Destiny is Slave, and possesses a terrifying self-healing ability. Blade wields an ancient sword riddled with cracks, just like his body and his mind.</item>
+        <item>Dan Heng • Imbibitor Lunae is a 5★ character from the Imaginary element who follows the Path of Destruction.Dan Heng is true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae. Upon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner.</item>
+        <item>Fu Xuan is a 5★ character from the Quantum element who follows the Path of Preservation.The head of the Xianzhou Luofu is Divination Commission. A confident and blunt sage. Using her third eye and the Matrix of Prescience, Fu Xuan calculates the Xianzhou is route and predicts the fortune of future events. She firmly believes that everything she does is the "best solution" for the situation. Fu Xuan is waiting for the general is promised "abdication." However, that day still seems... very far away.</item>
+        <item>Himeko is a 5★ character from the Fire element who follows the Path of Erudition.An adventurous scientist who encountered the Astral Express as a child when it got stranded in her home world. At that time, some existence in the Express revealed to this young girl a whole world outside of her own — the universe. Years later, Himeko finally repaired the train and began her journey to the stars, but she realized that this was only the beginning. On the Trailblaze path, she would need many more companions... Even though such companions may have different destinations in mind, they all gaze at the same starry sky.</item>
+        <item>Jingliu is a 5★ character from the Ice element who follows the Path of Destruction.One of the legendary heroes making up the High-Cloud Quintet, and bestowed with the title "Transcendent Flash". Having ascended beyond mortal concepts of victory, she chose to walk a different path to obtain the power capable of slaying gods. Thereafter, one Sword Champion of the Luofu was removed from the Xianzhou is records, and one traitor erased from the annuals was added.</item>
+        <item>Kafka is a 5★ character from the Lightning element who follows the Path of Nihility.On the Interastral Peace Corporation is wanted list, Kafka is only has two things — her name, and a single sentence: "Likes collecting coats." Little is known about this Stellaron Hunter, other than that she is one of Destiny is Slave Elio is most trusted members. In order to achieve Elio is envisioned future, Kafka gets to work.</item>
+        <item>Luocha is a 5★ character from the Imaginary element who follows the Path of Abundance.A blond-haired handsome young man who carries a coffin on his back. As a member of the intergalactic merchant guild, he was unfortunately caught in the Xianzhou Luofu is Stellaron crisis. Somehow, his superb medical skills are sure to be of use.</item>
+        <item>Seele is a 5★ character from the Quantum element who follows the Path of Hunt.A spirited and valiant member of Wildfire who grew up in the perilous Underworld of Belobog. She is accustomed to being on her own. As someone who once relied on others for protection, she now pursues strength. For the truth of the underground and her family is name, Seele can endure any kind of adversity. The protectors and the protected, the oppressors and the oppressed... The world Seele grew up knowing was just a simple dichotomy...That is, until that young girl appeared.</item>
+        <item>Silver Wolf is a 5★ character from the Quantum element who follows the Path of Nihility.The universe is just another game to this super hacker. No matter how thorny the defense system, Silver Wolf can crack it with ease. Her hacking battle with Screwllum of the Genius Society has become stuff of legends in the hacking world. How many more levels are there to beat in the universe? Silver Wolf looks forward to finding out.</item>
+        <item>Topaz and Numby is a 5★ character from the Fire element who follows the Path of Hunt.Topaz is the Leader of the Special Debts Picket Team and high-level manager of the Strategic Investment Department under the Interastral Peace Corporation. A member of the "Ten Stonehearts" at a young age, Topaz is foundational expertise is "debt retrieval." Her partner, the Warp Trotter "Numby," is also capable of keenly perceiving where "riches" are located, ensuring that jobs based in security, debt collection, and actuarial varieties are of no great challenge. At presently they are traveling the cosmos together, seeking all manner of liability disputes that might be affecting the stable progression of the IPC is businesses.</item>
+    </string-array>
+</resources>
